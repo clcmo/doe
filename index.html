@@ -43,9 +43,13 @@
             <!-- Buttons -->
             <div class="overlay__btns">
                 <button class="overlay__btn overlay__btn--transparent">
-                    <a href="https://ko-fi.com/clcmo/?hidefeed=true&widget=true&embed=true&preview=true" target="_blank">
-                        Doar via Ko-Fi
-                    </a>
+                    <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+                    <script>
+                        kofiWidgetOverlay.draw('clcmo', {
+                          'type': 'floating-chat',
+                          'floating-chat.donateButton.text': 'Doe via Ko-Fi',
+                        });
+                      </script>
                 </button>
 
                 <button class="overlay__btn overlay__btn--transparent">
@@ -62,4 +66,5 @@
         </div>
     </div>
     <script type="module" src="./assets/js/script.js"></script>
+    
 </body>

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>{{page.title}} | {{site.name}}</title>
+    
+    <link rel="shortcut icon" type="image/x-icon" href="{{site.baseurl}}/{{site.favicon}}">
+        
+    <!-- Theme Stylesheet -->
+    <link rel="stylesheet" href="./assets/css/theme.css">
+    
+    <!-- Jquery on header to make sure everything works, the rest  of the scripts in footer for fast loading -->
+    <script 
+        src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+    </head>
+    
+<body>
+    <!-- Canvas -->
+    <canvas class="orb-canvas"></canvas>
+    <!-- Overlay -->
+    <div class="overlay">
+        <!-- Overlay inner wrapper -->
+        <div class="overlay__inner">
+            <!-- Title -->
+            <h1 class="overlay__title">
+            Oba, você deseja 
+            <span class="text-gradient">colaborar</span> para <strong>#camilaloliveira</strong> e <strong>@studiourbanna</strong>?
+            </h1>
+            <!-- Description -->
+            <p class="overlay__description">
+                Abrimos a vaquinha digital que será utilizada para os 
+                <strong>We're gonna talk accessibility, too.</strong>
+            </p>
+            <!-- Buttons -->
+            <div class="overlay__btns">
+                <button class="overlay__btn overlay__btn--transparent">
+                    <a href="https://ko-fi.com/clcmo" target="_blank">
+                        Doar via Ko-Fi
+                    </a>
+                </button>
+
+                <button class="overlay__btn overlay__btn--colors">
+                    <a href="" target="_blank">
+                        <span>Doar via Pix</span>
+                        <span class="overlay__btn-emoji">🎨</span>
+                    </a>
+                </button>
+            </div>
+            <p class="overlay__description">
+                2022. <a href="studiourbanna.github.io" target="_blank">stdurb</a> + <a href="https://codepen.io/georgedoescode/pen/XWNmvro" target="_blank">George Francis</a>
+            </p>
+        </div>
+    </div>
+    <script src="./assets/js/script.js"></script>
+</body>

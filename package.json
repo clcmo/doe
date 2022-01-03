@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "pixi.js": "^5.0.0-rc"
+    "pixi.js": "^5.0.0-rc",
+    "pug": "^3.0.2"
   }
 }

@@ -6,10 +6,10 @@
     <title>{{page.title}}</title>
     <meta name="description" content="{{ page.description }}"> 
     
-    <link rel="shortcut icon" type="image/x-icon" href="./assets/images/logo_clcmo.png">
+    <link rel="shortcut icon" type="image/x-icon" href="{{page.baseurl}}/assets/images/logo_clcmo.png">
         
     <!-- Theme Stylesheet -->
-    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="{{page.baseurl}}/assets/css/style.css">
 
     <link rel="preconnect" href="https://fonts.gstatic.com" />
     <link
@@ -34,5 +34,5 @@
             {{ content }}
         </div>
     </div>
-    <script type="module" src="./assets/js/script.js"></script>
+    <script type="module" src="{{page.baseurl}}/assets/js/script.js"></script>
 </body>

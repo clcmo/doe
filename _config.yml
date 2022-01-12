@@ -1,6 +1,6 @@
 title: Doe - Camila L. Oliveira
 description: Doe por Paypal ou Pix
-baseurl: 
+baseurl: https://doe.camilaloliveira.com.br
 
 include: ["_pages"]
 permalink: /:title/

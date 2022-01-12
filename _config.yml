@@ -1,0 +1,26 @@
+title: Doe - Camila L. Oliveira
+description: Doe por Paypal ou Pix
+baseurl: 
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-pug
+
+authors:
+  milla:  
+    name:           Camila L. Oliveira
+    site:           https://camilaloliveira.com.br
+    avatar:         media/images/avatar_milla.png
+    bio:            "Tecnóloga em Análise e Desenvolvimento de Sistemas, Bacharel em Administração Pública, Programadora de Computadores e Dispositivos Móveis e Técnica em Informática para Internet. 
+      Com experiências nas empresas TCS e BRQ, atuando no desenvolvimento de soluções aos clientes há mais de 2 anos."
+    email:          ola@camilaloliveira.com.br
+    twitter:        https://twitter.com/millaloliveira
+    linkedin:       https://linkedin.com/in/clcmo
+    facebook:       https://facebook.com/millaloliveira

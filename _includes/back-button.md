@@ -1,7 +1,7 @@
 
 <!-- markdownlint-disable -->
 <!-- Buttons -->
-<div class="overlay__btns" style="align:right">
+<div class="overlay__btns">
     <button class="overlay__btn overlay__btn--transparent" onclick="history.back()"> << Voltar
     </button>
     <button class="overlay__btn overlay__btn--transparent">

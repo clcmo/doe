@@ -3,7 +3,7 @@
 <!-- Buttons -->
 <div class="overlay__btns">
     <button class="overlay__btn overlay__btn--transparent">
-        <a href="./kofi">Ko-Fi</a>
+        <a href="{{site.baseurl}}/kofi">Ko-Fi</a>
     </button>
     <button class="overlay__btn overlay__btn--transparent">
         <a href="https://mpago.la/1bjNHYM" target="_blank">Mercado Pago</a>

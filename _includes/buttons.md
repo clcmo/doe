@@ -12,7 +12,7 @@
         <a href="https://pag.ae/7XV5pibzm" target="_blank">Pag Seguro</a>
     </button>
     <button class="overlay__btn overlay__btn--transparent">
-        <a href="#" target="_blank">GitHub</a>
+        <a href="https://github.com/sponsors/clcmo" target="_blank">GitHub</a>
     </button>
     <button class="overlay__btn overlay__btn--colors">
         <span>Troca de cor</span>

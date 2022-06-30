@@ -1,5 +1,6 @@
 ---
 title: Doe
+layout: page
 ---
 <!-- markdownlint-disable -->    
 <!-- Title -->

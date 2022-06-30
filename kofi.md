@@ -1,6 +1,6 @@
 ---
 title: Doe via Kofi
-layout: default
+layout: page
 ---
 <!-- markdownlint-disable -->    
 <!-- Title -->

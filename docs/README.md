@@ -13,3 +13,5 @@ The page has an interactive background, with the intention of calling future sup
 Insert screenshot to inform what the visualization will be like
 
 Licence: [MIT](LICENSE)
+
+A página possui um background interativo, com a intuição de chamar os futuros apoiadores a contribuirem com suas doações.

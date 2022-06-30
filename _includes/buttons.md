@@ -3,13 +3,10 @@
 <!-- Buttons -->
 <div class="overlay__btns">
     <button class="overlay__btn overlay__btn--transparent">
+        <a href="http://heyurb.com.br/HOcQpj" target="_blank">Loja da Milla</a>
+    </button>
+    <button class="overlay__btn overlay__btn--transparent">
         <a href="{{site.baseurl}}/kofi">Ko-Fi</a>
-    </button>
-    <button class="overlay__btn overlay__btn--transparent">
-        <a href="https://mpago.la/1bjNHYM" target="_blank">Mercado Pago</a>
-    </button>
-    <button class="overlay__btn overlay__btn--transparent">
-        <a href="https://pag.ae/7XV5pibzm" target="_blank">Pag Seguro</a>
     </button>
     <button class="overlay__btn overlay__btn--transparent">
         <a href="https://github.com/sponsors/clcmo" target="_blank">GitHub</a>

@@ -1,6 +1,5 @@
 ---
 title: Doe
-layout: default
 ---
 <!-- markdownlint-disable -->    
 <!-- Title -->

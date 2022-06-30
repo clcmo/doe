@@ -1,6 +1,6 @@
 name: Camila L. Oliveira
 title: Doe
-description: Doe por Paypal ou Pix
+description: Doe a partir de R$5,00
 baseurl: https://doe.camilaloliveira.com.br
 
 include: ["_pages"]

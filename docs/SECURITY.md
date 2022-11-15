@@ -2,17 +2,19 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+The project is supported through the following browsers:
 
-| Version | Supported          |
+| Browser | Supported          |
 | ------- | ------------------ |
-| 2022.x   | :white_check_mark: |
+| Firefox | :white_check_mark: |
+| Chrome  | :white_check_mark: |
+| Safari  | :white_check_mark: |
+| Edge    | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
 Use this section to tell people how to report a vulnerability.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Report the [Issue Request](https://github.com/clcmo/web/issues/new?assignees=&labels=&template=bug_report.md&title=), with details on the vulnerabilities found on the page.
+
+A screenshot and a code snippet with the reported message are also valid.

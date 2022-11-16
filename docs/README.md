@@ -10,6 +10,6 @@ Landing page created in HTML and CSS, based on the tutorial by [George Francis](
 
 The page has an interactive background, with the intention of calling future supporters to contribute with their donations.
 
-Insert screenshot to inform what the visualization will be like
+[![Print Screen](printscreen.gif)](https://doe.camilaloliveira.com.br)
 
 Licence: [MIT](LICENSE)
